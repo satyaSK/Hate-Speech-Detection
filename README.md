@@ -4,7 +4,7 @@ Hate speech detection from code-mixed Hindi-English tweets using deep learning m
 # Domain Specific Word Embeddings
 The trained embeddings are available in the form of a pickle file above.
 
-#If you use these embeddings, please ensure that you add the following citation:
+# If you use these embeddings, please ensure that you add the following citation:
 ```
 Satyajit Kamble, Aditya Joshi, `Hate Speech Detection from Code-mixed Hindi-English Tweets Using Deep Learning Models', International Conference on Natural Language Processing 2018, Patiala, India, December 2018.
 ```
